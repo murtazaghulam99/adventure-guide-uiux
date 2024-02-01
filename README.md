@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/cuzw4vL1z5E?feature=shared" target="_blank">
-      <img src="https://github.com/murtazaghulam99/travel_ui_ux/assets/151519281/c72ebf75-847d-4a98-8f8a-24be02dac752" alt="Project Banner">
+      <img src="public/repocover.png" alt="Project Banner">
     </a>
   <br />
 
@@ -64,8 +64,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/murtazaghulam99/travel_ui_ux.git
-cd travel_ui_ux
+git clone https://github.com/murtazaghulam99/adventure-guide-uiux.git
+cd adventure-guide-uiux
 ```
 
 **Installation**
